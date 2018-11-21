@@ -21,6 +21,14 @@ body {
   margin: 0;
 }
 
-.cards {
+img {
+  width: 50px;
+}
+
+ul {
   list-style-type: none;
+}
+
+.cards {
+  margin: .75em;
 }
